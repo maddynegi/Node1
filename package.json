@@ -1,0 +1,21 @@
+{
+  "name": "wapp",
+  "version": "1.0.0",
+  "description": "The app will be used to get the temperature of various cities and later more functions may be added.",
+  "main": "3000",
+  "scripts": {
+    "test": "console.log(\"test\");"
+  },
+  "keywords": [
+    "weather",
+    "app"
+  ],
+  "author": "Madhav",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  }
+}
